@@ -83,7 +83,7 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 *The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
 - [Invisible Backdoor Attack against Self-supervised Learning]()   
 Hanrong Zhang, Zhenting Wang, **Boheng Li**, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma   
-*The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025*
+*The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025*
 
 - [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models]()   
 Yu He, **Boheng Li**, Liu Liu, Zhongjie Ba, Wei Dong, Yiming Li, Zhan Qin, Kui Ren, Chun Chen   
@@ -112,7 +112,7 @@ Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hong
 
 - [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/abs/2405.12725)   
 **Boheng Li**, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li   
-*The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024*
+*TThe IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
 - [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution](https://ojs.aaai.org/index.php/AAAI/article/view/29973)   
 Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang   
