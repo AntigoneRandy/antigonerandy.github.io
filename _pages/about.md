@@ -29,45 +29,48 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 # 🔥 News
 
-- *2025.02*: One paper is accepted by CVPR 2025.
-- *2025.02*: I am invited as a reviewer for NeurIPS 2025.
-- *2025.02*: I am invited as a reviewer for ACM MM 2025.
-- *2025.01*: One paper is accepted by USENIX Security 2025.
-- *2025.01*: I am invited as a reviewer for IEEE TIFS.
-- *2024.12*: I am invited as a reviewer for ICML 2025.
-- *2024.12*: One paper is accepted by AAAI 2025.
-- *2024.11*: I will serve as the Artifact Evaluation Committee (AEC) for USENIX Security 2025.
-- *2024.11*: I am invited as a reviewer for the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-- *2024.11*: I received the outstanding reviewer award from ACM MM 2024.
-<!-- - *2024.09*: One paper is accepted by S&P 2025. -->
-<!-- - *2024.05*: One paper is accepted by ICML 2024. -->
-<!-- - *2024.02*: One paper is accepted by CVPR 2024. -->
-<!-- - *2024.02*: Our team won the Outstanding Prize of Innova University Student Innovation Achievement Award. -->
-<!-- - *2024.01*: Invited as a reviewer for ACM MM 2024. -->
-<!-- - *2023.12*: One paper is accepted by AAAI 2024. -->
-<!-- - *2023.10*: Awarded with National Scholarship 2023. -->
-<!-- - *2023.08*: Invited as a reviewer by ACM TOMM. -->
-<!-- - *2023.08*: One paper is accepted by ICCVW UnCV 2023. -->
-<!-- - *2023.07*: One paper is accepted by ACM MM 2023. --> 
-<!-- - *2023.07*: One paper is accepted by ICCV 2023. -->
-<!-- - *2023.06*: Invited as a reviewer by ACM MM. -->
-<!-- - *2023.02*: I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd. -->
-<!-- - *2022.11*: Our team "AntiE" won the **Gold Reward** (national highest award, award rate less than 0.01%) of the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), it's a great honor! Congratulations to my teammates Jiahao Zhou, Tingyu Luo, Xinyue Zhang, Sixing Lin, Tong Zong, Zhuoyuan Wu, Chang Lu, Jie Xiao, Yiqing Li, Hanrui Yao, Weijing Li, and Fan Wang. Thanks to our team's former members Xin Cao and Chong Hu, our advisers Qingxiang Meng, Xiaoliang Meng, Run Wang and Linqing Liu, thanks to Chufeng Wu, Prof. Jun Qian, Prof. Huying Zhang, Mr. Qilin Sun who helped us a lot! Thanks to my mom and dad, thanks to everyone! -->
-<!-- - *2022.10*: Our team "AntiE" enters the national finals of the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), see you in Chongqing! -->
-<!-- - *2022.10*: I won the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%). -->
-<!-- - *2022.10*: I ranked 1/157 in the 2022 Comprehensive Assessment of the SCSE with a full score in practice and innovation ability (F3). My total score surpasses the second place by 11%. -->
+<div style="max-height: 250px; overflow-y: auto;">
+<ul>
+  <li><em>2025.03:</em> 📝 I am invited as a reviewer for <strong>IEEE TDSC</strong>.</li>
+  <li><em>2025.02:</em> 🎉 One paper is accepted by <strong>CVPR 2025</strong>.</li>
+  <li><em>2025.02:</em> 📝 I am invited as a reviewer for <strong>NeurIPS 2025</strong>.</li>
+  <li><em>2025.02:</em> 📝 I am invited as a reviewer for <strong>ACM MM 2025</strong>.</li>
+  <li><em>2025.01:</em> 🎉 One paper is accepted by <strong>USENIX Security 2025</strong>.</li>
+  <li><em>2025.01:</em> 📝 I am invited as a reviewer for <strong>IEEE TIFS</strong>.</li>
+  <li><em>2024.12:</em> 📝 I am invited as a reviewer for <strong>ICML 2025</strong>.</li>
+  <li><em>2024.12:</em> 🎉 One paper is accepted by <strong>AAAI 2025</strong>.</li>
+  <li><em>2024.11:</em> 📝 I will serve as the <strong>Artifact Evaluation Committee (AEC)</strong> for <strong>USENIX Security 2025</strong>.</li>
+  <li><em>2024.11:</em> 📝 I am invited as a reviewer for <strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</strong>.</li>
+  <li><em>2024.11:</em> 🏆 I received the <strong>Outstanding Reviewer Award</strong> from <strong>ACM MM 2024</strong>.</li>
+  <li><em>2024.09:</em> 🎉 One paper is accepted by <strong>S&P 2025</strong>.</li>
+  <li><em>2024.05:</em> 🎉 One paper is accepted by <strong>ICML 2024</strong>.</li>
+  <li><em>2024.02:</em> 🎉 One paper is accepted by <strong>CVPR 2024</strong>.</li>
+  <li><em>2024.02:</em> 🏆 Our team won the <strong>Outstanding Prize</strong> of <strong>Innova University Student Innovation Achievement Award</strong>.</li>
+  <li><em>2024.01:</em> 📝 I am invited as a reviewer for <strong>ACM MM 2024</strong>.</li>
+  <li><em>2023.12:</em> 🎉 One paper is accepted by <strong>AAAI 2024</strong>.</li>
+  <li><em>2023.10:</em> 🏆 I am awarded with <strong>National Scholarship 2023</strong>.</li>
+  <li><em>2023.08:</em> 📝 I am invited as a reviewer by <strong>ACM TOMM</strong>.</li>
+  <li><em>2023.08:</em> 🎉 One paper is accepted by <strong>ICCVW UnCV 2023</strong>.</li>
+  <li><em>2023.07:</em> 🎉 One paper is accepted by <strong>ACM MM 2023</strong>.</li>
+  <li><em>2023.07:</em> 🎉 One paper is accepted by <strong>ICCV 2023</strong>.</li>
+  <li><em>2023.06:</em> 📝 I am invited as a reviewer by <strong>ACM MM</strong>.</li>
+  <li><em>2023.02:</em> 🏆 I was awarded the <strong>Huawei Scholarship</strong> (54 candidates per year in WHU) by <strong>Wuhan University & Huawei Technologies Co., Ltd.</strong></li>
+  <li><em>2022.11:</em> 🏆 Our team <strong>"AntiE"</strong> won the <strong>Gold Reward</strong> (national highest award, award rate &lt; 0.01%) at the <strong>8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition</strong>. Thanks to all teammates and advisors!</li>
+  <li><em>2022.10:</em> 🏆 I won the <strong>National Scholarship</strong> (0.2% national-wide) and was selected as <strong>Pacemaker to Merit Student</strong> of WHU (Award Rate: 60/59774=0.1%).</li>
+  <!-- <li><em>2022.10:</em> 🏆 I ranked <strong>1/157</strong> in the <strong>2022 Comprehensive Assessment</strong> of SCSE with a full score in practice and innovation ability. My total score surpassed the second place by 11%.</li> -->
+  <li><em>2022.08:</em> 🏆 Our team won the <strong>Outstanding Winner Award</strong> (highest award) in the <strong>2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition</strong>.</li>
+  <li><em>2022.08:</em> 🏆 Our team <strong>"AntiE"</strong> won the <strong>Golden Prize</strong> in the <strong>8th China International College Students "Internet+" Innovation and Entrepreneurship Competition</strong>, Hubei Province Division, and successfully entered the National Finals.</li>
+  <li><em>2022.08:</em> 🏆 Our team won the <strong>First Prize</strong> in the <strong>15th Chinese Collegiate Computing Competition National Finals (4C'2022)</strong>.</li>
+  <li><em>2022.08:</em> 🏆 Our team <strong>"AntiE"</strong> won the <strong>Outstanding Winner Award</strong> in the <strong>14th Shenzhen Innovation and Entrepreneurship Competition</strong>.</li>
+  <li><em>2022.07:</em> 🎓 This semester ended with a <strong>GPA of 4.0/4.0</strong> and an average score of <strong>95.47/100</strong>.</li>
+  <li><em>2022.07:</em> 🏆 I won the <strong>Second Prize</strong> in the <strong>Lanqiao Cup</strong> national finals.</li>
+  <li><em>2022.07:</em> 🏆 Our team <strong>"AntiE"</strong> won the <strong>Golden Prize</strong> in the <strong>"Challenge Cup" Innovation and Entrepreneurship Competition</strong>, Hubei Province Division, and successfully entered the National Competition.</li>
+  <!-- <li><em>2022.06:</em> 🏆 I was awarded as a <strong>"Social Activity Activist"</strong> by <strong>Wuhan University</strong>.</li> -->
+  <!-- <li><em>2022.06:</em> 📄 Our paper <strong>"Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation"</strong> was accepted by <strong>Geoinformatics 2022</strong>. <a href="https://arxiv.org/pdf/2209.09131.pdf">[PDF]</a></li> -->
+  <!-- <li><em>2022.06:</em> 📄 Our paper <strong>"Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS"</strong> was accepted by <strong>Geoinformatics 2022</strong>. <a href="https://arxiv.org/pdf/2209.07687.pdf">[PDF]</a></li> -->
+</ul>
+</div>
 
-<!-- - *2022.08*: Our team won the Outstanding Winner Award (highest award) in the 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition Development and Design Competition. Congrats to my teammates Jiahao Zhou, Sixing Lin, and Tingyu Luo.
-- *2022.08*: Our team "AntiE" won the Golden Prize in the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Division (Chinese: 中国国际“互联网+”大学生创新创业大赛), and successfully entered the National Finals. -->
-
-<!-- - *2022.08*: Our team won the First Prize in the 15th Chinese Collegiate Computing Competition National Finals (4C'2022). Congratulations to my teammates Jiahao Zhou and Sixing Lin.
-- *2022.08*: Our team "AntiE" won the Outstanding Winner Award in the 14th Shenzhen Innovation and Entrepreneurship Competition.
-- *2022.07*: This semester ends with a GPA of 4.0/4.0 and an average score of 95.47/100.
-- *2022.07*: I won the Second Prize in the Lanqiao Cup national finals.
-- *2022.07*: Our team "AntiE" (Chinese: 安急易) won the Golden Prize in the "Challenge Cup" Innovation and Entrepreneurship Competition (Chinese: “挑战杯”中国大学生创业计划竞赛), Hubei Province Division, and successfully entered the National Competition.
-- *2022.06*: I am awarded as "social activity activist" (Chinese: 社会活动积极分子) by Wuhan University.
-- *2022.06*: Our paper "Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation" is accepted by Geoinformatics 2022. \[[pdf](https://arxiv.org/pdf/2209.09131.pdf)\]
-- *2022.06*: Our paper "Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS" is accepted by Geoinformatics 2022. \[[pdf](https://arxiv.org/pdf/2209.07687.pdf)\]-->
 
 # 📝 Publications 
 
@@ -164,6 +167,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 # 🎡 Activities
 
 ## Academic Services
+- Reviewer, The IEEE Transactions on Dependable and Secure Computing (TDSC), 2025.
 - Reviewer, The IEEE Transactions on Information Forensics & Security (TIFS), 2025.
 - Reviewer, The International Conference on Machine Learning (ICML), 2025.
 - Artifact Evaluation Committee, The USENIX Security Symposium (USENIX Security), 2025.
