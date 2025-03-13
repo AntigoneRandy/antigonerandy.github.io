@@ -48,7 +48,7 @@ My research interests focus on trustworthy machine learning, with a particular e
   <li><em>2024.02:</em> 🏆 Our team won the <strong>Outstanding Prize</strong> of <strong>Innova University Student Innovation Achievement Award</strong>.</li>
   <li><em>2024.01:</em> 📝 I am invited as a reviewer for <strong>ACM MM 2024</strong>.</li>
   <!-- <li><em>2023.12:</em> 🎉 One paper is accepted by <strong>AAAI 2024</strong>.</li> -->
-  <li><em>2023.10:</em> 🏆 I am awarded with <strong>National Scholarship 2023</strong>.</li>
+  <!-- <li><em>2023.10:</em> 🏆 I am awarded with <strong>National Scholarship 2023</strong>.</li>
   <li><em>2023.08:</em> 📝 I am invited as a reviewer by <strong>ACM TOMM</strong>.</li>
   <!-- <li><em>2023.08:</em> 🎉 One paper is accepted by <strong>ICCVW UnCV 2023</strong>.</li> -->
   <!-- <li><em>2023.07:</em> 🎉 One paper is accepted by <strong>ACM MM 2023</strong>.</li> -->
@@ -64,7 +64,7 @@ My research interests focus on trustworthy machine learning, with a particular e
   <li><em>2022.08:</em> 🏆 Our team <strong>"AntiE"</strong> won the <strong>Outstanding Winner Award</strong> in the <strong>14th Shenzhen Innovation and Entrepreneurship Competition</strong>.</li>
   <li><em>2022.07:</em> 🎓 This semester ended with a <strong>GPA of 4.0/4.0</strong> and an average score of <strong>95.47/100</strong>.</li>
   <li><em>2022.07:</em> 🏆 I won the <strong>Second Prize</strong> in the <strong>Lanqiao Cup</strong> national finals.</li>
-  <li><em>2022.07:</em> 🏆 Our team <strong>"AntiE"</strong> won the <strong>Golden Prize</strong> in the <strong>"Challenge Cup" Innovation and Entrepreneurship Competition</strong>, Hubei Province Division, and successfully entered the National Competition.</li>
+  <li><em>2022.07:</em> 🏆 Our team <strong>"AntiE"</strong> won the <strong>Golden Prize</strong> in the <strong>"Challenge Cup" Innovation and Entrepreneurship Competition</strong>, Hubei Province Division, and successfully entered the National Competition.</li> -->
   <!-- <li><em>2022.06:</em> 🏆 I was awarded as a <strong>"Social Activity Activist"</strong> by <strong>Wuhan University</strong>.</li> -->
   <!-- <li><em>2022.06:</em> 📄 Our paper <strong>"Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation"</strong> was accepted by <strong>Geoinformatics 2022</strong>. <a href="https://arxiv.org/pdf/2209.09131.pdf">[PDF]</a></li> -->
   <!-- <li><em>2022.06:</em> 📄 Our paper <strong>"Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS"</strong> was accepted by <strong>Geoinformatics 2022</strong>. <a href="https://arxiv.org/pdf/2209.07687.pdf">[PDF]</a></li> -->
