@@ -107,7 +107,7 @@ Weifeng Liu, Tianyi She, Jiawei Liu, **Boheng Li**, Dongyu Yao, Ziyou Liang, Run
 
 - [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/abs/2405.12725)   
 **Boheng Li**, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li   
-*TThe IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
+*The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
 <!-- - [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution](https://ojs.aaai.org/index.php/AAAI/article/view/29973)   
 Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang   
@@ -119,7 +119,7 @@ Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hong
 
 - [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://arxiv.org/abs/2307.15860)   
 Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
-*International Conference on Computer Vision (ICCV), 2023*
+*The International Conference on Computer Vision (ICCV), 2023*
 
 - [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://www.arxiv.org/abs/2502.18943)   
 Yu He, **Boheng Li**, Liu Liu, Zhongjie Ba, Wei Dong, Yiming Li, Zhan Qin, Kui Ren, Chun Chen   
