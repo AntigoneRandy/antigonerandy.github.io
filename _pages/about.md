@@ -47,11 +47,11 @@ My research interests focus on trustworthy machine learning, with a particular e
   <li><em>2024.02:</em> 🎉 One paper is accepted by <strong>CVPR 2024</strong>.</li>
   <li><em>2024.02:</em> 🏆 Our team won the <strong>Outstanding Prize</strong> of <strong>Innova University Student Innovation Achievement Award</strong>.</li>
   <li><em>2024.01:</em> 📝 I am invited as a reviewer for <strong>ACM MM 2024</strong>.</li>
-  <li><em>2023.12:</em> 🎉 One paper is accepted by <strong>AAAI 2024</strong>.</li>
+  <!-- <li><em>2023.12:</em> 🎉 One paper is accepted by <strong>AAAI 2024</strong>.</li> -->
   <li><em>2023.10:</em> 🏆 I am awarded with <strong>National Scholarship 2023</strong>.</li>
   <li><em>2023.08:</em> 📝 I am invited as a reviewer by <strong>ACM TOMM</strong>.</li>
-  <li><em>2023.08:</em> 🎉 One paper is accepted by <strong>ICCVW UnCV 2023</strong>.</li>
-  <li><em>2023.07:</em> 🎉 One paper is accepted by <strong>ACM MM 2023</strong>.</li>
+  <!-- <li><em>2023.08:</em> 🎉 One paper is accepted by <strong>ICCVW UnCV 2023</strong>.</li> -->
+  <!-- <li><em>2023.07:</em> 🎉 One paper is accepted by <strong>ACM MM 2023</strong>.</li> -->
   <li><em>2023.07:</em> 🎉 One paper is accepted by <strong>ICCV 2023</strong>.</li>
   <li><em>2023.06:</em> 📝 I am invited as a reviewer by <strong>ACM MM</strong>.</li>
   <li><em>2023.02:</em> 🏆 I was awarded the <strong>Huawei Scholarship</strong> (54 candidates per year in WHU) by <strong>Wuhan University & Huawei Technologies Co., Ltd.</strong></li>
@@ -101,9 +101,9 @@ Ziyou Liang, Weifeng Liu, Run Wang, Mengjie Wu, **Boheng Li**, Yuyang Zhang, Lin
 **Boheng Li**, Yanhao Wei, Yankai Fu, Zhenting Wang, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang   
 *The IEEE Symposium on Security and Privacy (S&P), 2025*
 
-- [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://arxiv.org/abs/2401.15668)   
+<!-- - [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://arxiv.org/abs/2401.15668)   
 Weifeng Liu, Tianyi She, Jiawei Liu, **Boheng Li**, Dongyu Yao, Ziyou Liang, Run Wang   
-*Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
+*Annual Conference on Neural Information Processing Systems (NeurIPS), 2024* -->
 
 - [Is Difficulty Calibration All We Need? Towards More Practical Membership Inference Attacks](https://arxiv.org/abs/2409.00426)   
 Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hongxin Hu, and Xingyu Zhao   
