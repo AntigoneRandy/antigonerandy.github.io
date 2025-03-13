@@ -121,7 +121,7 @@ Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hong
 Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
 *International Conference on Computer Vision (ICCV), 2023*
 
-- [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models]()   
+- [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://www.arxiv.org/abs/2502.18943)   
 Yu He, **Boheng Li**, Liu Liu, Zhongjie Ba, Wei Dong, Yiming Li, Zhan Qin, Kui Ren, Chun Chen   
 *The 34th USENIX Security Symposium (USENIX Security), 2025*
 
