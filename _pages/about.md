@@ -32,13 +32,13 @@ My research interests focus on trustworthy machine learning, with a particular e
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
   <li><em>2025.03:</em> 📝 I am invited as a reviewer for <strong>IEEE TDSC</strong>.</li>
-  <li><em>2025.02:</em> 🎉 One paper is accepted by <strong>CVPR 2025</strong>.</li>
+  <!-- <li><em>2025.02:</em> 🎉 One paper is accepted by <strong>CVPR 2025</strong>.</li> -->
   <li><em>2025.02:</em> 📝 I am invited as a reviewer for <strong>NeurIPS 2025</strong>.</li>
   <li><em>2025.02:</em> 📝 I am invited as a reviewer for <strong>ACM MM 2025</strong>.</li>
   <li><em>2025.01:</em> 🎉 One paper is accepted by <strong>USENIX Security 2025</strong>.</li>
   <li><em>2025.01:</em> 📝 I am invited as a reviewer for <strong>IEEE TIFS</strong>.</li>
   <li><em>2024.12:</em> 📝 I am invited as a reviewer for <strong>ICML 2025</strong>.</li>
-  <li><em>2024.12:</em> 🎉 One paper is accepted by <strong>AAAI 2025</strong>.</li>
+  <!-- <li><em>2024.12:</em> 🎉 One paper is accepted by <strong>AAAI 2025</strong>.</li> -->
   <li><em>2024.11:</em> 📝 I will serve as the <strong>Artifact Evaluation Committee (AEC)</strong> for <strong>USENIX Security 2025</strong>.</li>
   <li><em>2024.11:</em> 📝 I am invited as a reviewer for <strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</strong>.</li>
   <li><em>2024.11:</em> 🏆 I received the <strong>Outstanding Reviewer Award</strong> from <strong>ACM MM 2024</strong>.</li>
@@ -72,7 +72,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 </div>
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 $^\dagger$: equal contribution, $^*$: corresponding author
 
@@ -84,18 +84,18 @@ Jiahao Zhou, **Boheng Li**, Qingxiang Meng
 - [Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS](https://ieeexplore.ieee.org/document/9963810)   
 Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng   
 *The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
-- [Invisible Backdoor Attack against Self-supervised Learning]()   
+<!-- - [Invisible Backdoor Attack against Self-supervised Learning]()   
 Hanrong Zhang, Zhenting Wang, **Boheng Li**, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma   
-*The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025*
+*The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025* -->
 
 - [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models]()   
 Yu He, **Boheng Li**, Liu Liu, Zhongjie Ba, Wei Dong, Yiming Li, Zhan Qin, Kui Ren, Chun Chen   
 *The 34th USENIX Security Symposium (USENIX Security), 2025*
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
-- [Transfer Learning of Real Image Features with Soft Contrastive Loss for Fake Image Detection]()   
+<!-- - [Transfer Learning of Real Image Features with Soft Contrastive Loss for Fake Image Detection]()   
 Ziyou Liang, Weifeng Liu, Run Wang, Mengjie Wu, **Boheng Li**, Yuyang Zhang, Lina Wang, Xinyi Yang   
-*Annual AAAI Conference on Artificial Intelligence (AAAI), 2025*
+*Annual AAAI Conference on Artificial Intelligence (AAAI), 2025* -->
 
 - [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/abs/2410.10437)   
 **Boheng Li**, Yanhao Wei, Yankai Fu, Zhenting Wang, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang   
@@ -117,21 +117,21 @@ Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hong
 **Boheng Li**, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li   
 *TThe IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
-- [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution](https://ojs.aaai.org/index.php/AAAI/article/view/29973)   
+<!-- - [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution](https://ojs.aaai.org/index.php/AAAI/article/view/29973)   
 Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang   
-*Annual AAAI Conference on Artificial Intelligence (AAAI), 2024*
+*Annual AAAI Conference on Artificial Intelligence (AAAI), 2024* -->
 
 - [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://arxiv.org/abs/2307.15860)   
 Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
 *International Conference on Computer Vision (ICCV), 2023*
 
-- [Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
+<!-- - [Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
 Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Wenhui Zhang, Liming Fang, Jing Chen, Lina Wang  
-*ACM Multimedia (MM), 2023*
+*ACM Multimedia (MM), 2023* -->
 
-- [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2307.07972)   
+<!-- - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2307.07972)   
 Dongyu Yao, **Boheng Li**$^\*$   
-*ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*
+*ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023* -->
 
 
 <!-- # 🏆 Competition Awards
