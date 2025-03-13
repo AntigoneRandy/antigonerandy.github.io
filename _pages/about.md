@@ -88,10 +88,6 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 Hanrong Zhang, Zhenting Wang, **Boheng Li**, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma   
 *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025* -->
 
-- [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models]()   
-Yu He, **Boheng Li**, Liu Liu, Zhongjie Ba, Wei Dong, Yiming Li, Zhan Qin, Kui Ren, Chun Chen   
-*The 34th USENIX Security Symposium (USENIX Security), 2025*
-
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
 <!-- - [Transfer Learning of Real Image Features with Soft Contrastive Loss for Fake Image Detection]()   
 Ziyou Liang, Weifeng Liu, Run Wang, Mengjie Wu, **Boheng Li**, Yuyang Zhang, Lina Wang, Xinyi Yang   
@@ -105,10 +101,6 @@ Ziyou Liang, Weifeng Liu, Run Wang, Mengjie Wu, **Boheng Li**, Yuyang Zhang, Lin
 Weifeng Liu, Tianyi She, Jiawei Liu, **Boheng Li**, Dongyu Yao, Ziyou Liang, Run Wang   
 *Annual Conference on Neural Information Processing Systems (NeurIPS), 2024* -->
 
-- [Is Difficulty Calibration All We Need? Towards More Practical Membership Inference Attacks](https://arxiv.org/abs/2409.00426)   
-Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hongxin Hu, and Xingyu Zhao   
-*The ACM Conference on Computer and Communications Security (CCS), 2024*
-
 - [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation](https://openreview.net/pdf?id=CEfr3h68KU)   
 **Boheng Li$^\dagger$**, Yishuo Cai$^\dagger$, Jisong Cai, Yiming Li, Han Qiu, Run Wang, Tianwei Zhang   
 *The International Conference on Machine Learning (ICML), 2024*
@@ -121,9 +113,17 @@ Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hong
 Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang   
 *Annual AAAI Conference on Artificial Intelligence (AAAI), 2024* -->
 
+- [Is Difficulty Calibration All We Need? Towards More Practical Membership Inference Attacks](https://arxiv.org/abs/2409.00426)   
+Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hongxin Hu, and Xingyu Zhao   
+*The ACM Conference on Computer and Communications Security (CCS), 2024*
+
 - [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://arxiv.org/abs/2307.15860)   
 Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
 *International Conference on Computer Vision (ICCV), 2023*
+
+- [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models]()   
+Yu He, **Boheng Li**, Liu Liu, Zhongjie Ba, Wei Dong, Yiming Li, Zhan Qin, Kui Ren, Chun Chen   
+*The 34th USENIX Security Symposium (USENIX Security), 2025*
 
 <!-- - [Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
 Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Wenhui Zhang, Liming Fang, Jing Chen, Lina Wang  
