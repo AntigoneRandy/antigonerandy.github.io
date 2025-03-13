@@ -74,7 +74,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 # 📝 Selected Publications 
 
-$^\dagger$: equal contribution, $^*$: corresponding author
+$^\dagger$: equal contribution
 
 <!-- ## 🛰️ Geoinformatics & Remote Sensing
 - [Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation](https://ieeexplore.ieee.org/document/9963835)   
