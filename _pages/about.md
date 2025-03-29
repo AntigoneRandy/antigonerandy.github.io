@@ -31,6 +31,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2025.03:</em> 📝 I am invited as a reviewer for ICCV 2025.</li>
   <li><em>2025.03:</em> 📝 I am invited as a reviewer for IEEE TDSC.</li>
   <!-- <li><em>2025.02:</em> 🎉 One paper is accepted by CVPR 2025.</li> -->
   <li><em>2025.02:</em> 📝 I am invited as a reviewer for NeurIPS 2025.</li>
@@ -167,6 +168,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 # 🎡 Activities
 
 ## Academic Services
+- Reviewer, The International Conference on Computer Vision (ICCV), 2025.
 - Reviewer, The IEEE Transactions on Dependable and Secure Computing (TDSC), 2025.
 - Reviewer, The IEEE Transactions on Information Forensics & Security (TIFS), 2025.
 - Reviewer, The International Conference on Machine Learning (ICML), 2025.
