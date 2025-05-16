@@ -128,7 +128,7 @@ Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo
 
 <!-- - [Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
 Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Wenhui Zhang, Liming Fang, Jing Chen, Lina Wang  
-*ACM Multimedia (MM), 2023* --> -->
+*ACM Multimedia (MM), 2023* -->
 
 <!-- - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2307.07972)   
 Dongyu Yao, **Boheng Li**$^\*$   
