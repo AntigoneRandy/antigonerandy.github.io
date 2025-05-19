@@ -175,7 +175,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 - Artifact Evaluation Committee, The USENIX Security Symposium (USENIX Security), 2025.
 - Reviewer, The IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025.
 - Reviewer, The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
-- Reviewer, The International Conference on Learning Representations (ICLR), 2025. *[(ICLR'25 Notable Reviewer z)](https://iclr.cc/Conferences/2025/Reviewers)*
+- Reviewer, The International Conference on Learning Representations (ICLR), 2025. *[(ICLR'25 Notable Reviewer)](https://iclr.cc/Conferences/2025/Reviewers)*
 - Reviewer, Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025.
 - Reviewer, ACM Multimedia Conference (MM), 2024, 2025. *[(MM'24 Outstanding Reviewer Award)](https://2024.acmmm.org/outstanding-ac-reviewer)*
 - Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
