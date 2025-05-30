@@ -67,7 +67,7 @@ My research interests focus on trustworthy machine learning, with a particular e
   <li><em>2022.08:</em> 🏆 Our team "AntiE" won the Outstanding Winner Award in the 14th Shenzhen Innovation and Entrepreneurship Competition.</li>
   <li><em>2022.07:</em> 🎓 This semester ended with a GPA of 4.0/4.0 and an average score of 95.47/100.</li>
   <li><em>2022.07:</em> 🏆 I won the Second Prize in the Lanqiao Cup national finals.</li>
-  <li><em>2022.07:</em> 🏆 Our team "AntiE" won the Golden Prize in the "Challenge Cup" Innovation and Entrepreneurship Competition, Hubei Province Division, and successfully entered the National Competition.</li> -->
+  <li><em>2022.07:</em> 🏆 Our team "AntiE" won the Golden Prize in the "Challenge Cup" Innovation and Entrepreneurship Competition, Hubei Province Division, and successfully entered the National Competition.</li> 
   <!-- <li><em>2022.06:</em> 🏆 I was awarded as a "Social Activity Activist" by Wuhan University.</li> -->
   <!-- <li><em>2022.06:</em> 📄 Our paper "Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation" was accepted by Geoinformatics 2022. <a href="https://arxiv.org/pdf/2209.09131.pdf">[PDF]</a></li> -->
   <!-- <li><em>2022.06:</em> 📄 Our paper "Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS" was accepted by Geoinformatics 2022. <a href="https://arxiv.org/pdf/2209.07687.pdf">[PDF]</a></li> -->
