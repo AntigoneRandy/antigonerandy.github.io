@@ -31,6 +31,8 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2025.05:</em> 🏆 I received the Top Reviewer Award from ICML 2025.</li>
+  <li><em>2025.05:</em> 🏆 I received the Notable Reviewer Award from ICLR 2025.</li>
   <li><em>2025.03:</em> 📝 I am invited as a reviewer for ICCV 2025.</li>
   <li><em>2025.03:</em> 📝 I am invited as a reviewer for IEEE TDSC.</li>
   <!-- <li><em>2025.02:</em> 🎉 One paper is accepted by CVPR 2025.</li> -->
