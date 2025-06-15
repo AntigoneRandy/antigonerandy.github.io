@@ -91,22 +91,9 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 Yu He, **Boheng Li**, Liu Liu, Zhongjie Ba, Wei Dong, Yiming Li, Zhan Qin, Kui Ren, Chun Chen   
 *The 34th USENIX Security Symposium (USENIX Security), 2025*
 
-<!-- - [Invisible Backdoor Attack against Self-supervised Learning]()   
-Hanrong Zhang, Zhenting Wang, **Boheng Li**, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma   
-*The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025* -->
-
-<!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
-<!-- - [Transfer Learning of Real Image Features with Soft Contrastive Loss for Fake Image Detection]()   
-Ziyou Liang, Weifeng Liu, Run Wang, Mengjie Wu, **Boheng Li**, Yuyang Zhang, Lina Wang, Xinyi Yang   
-*Annual AAAI Conference on Artificial Intelligence (AAAI), 2025* -->
-
 - [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/abs/2410.10437)   
 **Boheng Li**, Yanhao Wei, Yankai Fu, Zhenting Wang, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang   
 *The IEEE Symposium on Security and Privacy (S&P), 2025*
-
-- [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://arxiv.org/abs/2401.15668)   
-Weifeng Liu, Tianyi She, Jiawei Liu, **Boheng Li**, Dongyu Yao, Ziyou Liang, Run Wang   
-*Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
 
 - [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation](https://openreview.net/pdf?id=CEfr3h68KU)   
 **Boheng Li$^\dagger$**, Yishuo Cai$^\dagger$, Jisong Cai, Yiming Li, Han Qiu, Run Wang, Tianwei Zhang   
@@ -116,10 +103,6 @@ Weifeng Liu, Tianyi She, Jiawei Liu, **Boheng Li**, Dongyu Yao, Ziyou Liang, Run
 **Boheng Li**, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li   
 *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
-<!-- - [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution](https://ojs.aaai.org/index.php/AAAI/article/view/29973)   
-Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang   
-*Annual AAAI Conference on Artificial Intelligence (AAAI), 2024* -->
-
 - [Is Difficulty Calibration All We Need? Towards More Practical Membership Inference Attacks](https://arxiv.org/abs/2409.00426)   
 Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hongxin Hu, and Xingyu Zhao   
 *The ACM Conference on Computer and Communications Security (CCS), 2024*
@@ -128,9 +111,26 @@ Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hong
 Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
 *The International Conference on Computer Vision (ICCV), 2023*
 
-<!-- - [Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
+- [Invisible Backdoor Attack against Self-supervised Learning]()    
+Hanrong Zhang, Zhenting Wang, **Boheng Li**, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma   
+*The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025* -->
+
+- [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://arxiv.org/abs/2401.15668)   
+Weifeng Liu, Tianyi She, Jiawei Liu, **Boheng Li**, Dongyu Yao, Ziyou Liang, Run Wang   
+*Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
+
+<!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
+- [Transfer Learning of Real Image Features with Soft Contrastive Loss for Fake Image Detection]()   
+Ziyou Liang, Weifeng Liu, Run Wang, Mengjie Wu, **Boheng Li**, Yuyang Zhang, Lina Wang, Xinyi Yang   
+*Annual AAAI Conference on Artificial Intelligence (AAAI), 2025*
+
+- [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution](https://ojs.aaai.org/index.php/AAAI/article/view/29973)   
+Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang   
+*Annual AAAI Conference on Artificial Intelligence (AAAI), 2024*
+
+- [Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
 Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Wenhui Zhang, Liming Fang, Jing Chen, Lina Wang  
-*ACM Multimedia (MM), 2023* -->
+*ACM Multimedia (MM), 2023*
 
 <!-- - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2307.07972)   
 Dongyu Yao, **Boheng Li**$^\*$   
