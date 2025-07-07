@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there 👋👋 !
 
-I'm Boheng Li (李勃衡), a first-year Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, under the supervision of Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). I received my B.E. from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China, in 2024, where I was advised by Prof. [Run Wang](http://wangrun.github.io/). During my undergraduate studies (2023.04-2024.06), I also worked as a research intern at the [State Key Laboratory of Blockchain and Data Security](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738118/page.htm), [Zhejiang University](https://www.zju.edu.cn/), China, collaborating with Dr. [Yiming Li](https://liyiming.tech/).
+I'm Boheng Li (李勃衡), a Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, under the supervision of Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). I received my B.E. from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China, where I was advised by Prof. [Run Wang](http://wangrun.github.io/). During my undergraduate studies, I also worked as a research intern at the [State Key Laboratory of Blockchain and Data Security](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738118/page.htm), [Zhejiang University](https://www.zju.edu.cn/), China, collaborating with Dr. [Yiming Li](https://liyiming.tech/).
 
 My research interests focus on trustworthy machine learning, with a particular emphasis on responsible (multimodal) generative models.
 
@@ -31,6 +31,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2025.05:</em> 📝 I will serve as the Artifact Evaluation Committee (AEC) for NDSS 2026.</li>
   <li><em>2025.05:</em> 🏆 I received the Top Reviewer Award from ICML 2025.</li>
   <li><em>2025.05:</em> 🏆 I received the Notable Reviewer Award from ICLR 2025.</li>
   <li><em>2025.03:</em> 📝 I am invited as a reviewer for ICCV 2025.</li>
@@ -170,6 +171,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 # 🎡 Activities
 
 ## Academic Services
+- Artifact Evaluation Committee, The Network and Distributed System Security Symposium (NDSS), 2026.
 - Reviewer, The International Conference on Computer Vision (ICCV), 2025.
 - Reviewer, The IEEE Transactions on Dependable and Secure Computing (TDSC), 2025.
 - Reviewer, The IEEE Transactions on Information Forensics & Security (TIFS), 2025.
