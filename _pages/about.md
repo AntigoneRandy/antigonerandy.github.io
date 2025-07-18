@@ -111,6 +111,7 @@ Yu He$^\dagger$, **Boheng Li$^\dagger$**, Yao Wang, Mengda Yang, Juan Wang, Hong
 - [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://arxiv.org/abs/2307.15860)   
 Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
 *The International Conference on Computer Vision (ICCV), 2023*
+
 <!-- 
 - [Invisible Backdoor Attack against Self-supervised Learning]()    
 Hanrong Zhang, Zhenting Wang, **Boheng Li**, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma   
