@@ -31,6 +31,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2025.05:</em> 📝 I am invited as a reviewer for ACM MM Datasets 2025.</li>
   <li><em>2025.05:</em> 📝 I will serve as the Artifact Evaluation Committee (AEC) for NDSS 2026.</li>
   <li><em>2025.05:</em> 🏆 I received the Top Reviewer Award from ICML 2025.</li>
   <li><em>2025.05:</em> 🏆 I received the Notable Reviewer Award from ICLR 2025.</li>
