@@ -23,7 +23,7 @@ I'm Boheng Li (李勃衡), a Ph.D. student at the [College of Computing and Data
 
 My research interests focus on trustworthy machine learning, with a particular emphasis on responsible (multimodal) generative models.
 
-🌟🌟 I am open to discussions and potential collaboration opportunities. If you're interested in working with me, don’t hesitate to send me an email!
+🌟🌟 I am open to discussions and potential collaboration opportunities. If you're interested in working with me, Feel free to contact me via <a href="mailto:randy.bh.li@foxmail.com">Email</a> or <a href="https://antigonerandy.github.io/images/wechat.png">WeChat</a>.
 
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
@@ -185,13 +185,13 @@ Dongyu Yao, **Boheng Li**$^\*$
 - Reviewer, The International Conference on Computer Vision (ICCV), 2025.
 - Reviewer, The IEEE Transactions on Dependable and Secure Computing (TDSC), 2025.
 - Reviewer, The IEEE Transactions on Information Forensics & Security (TIFS), 2025.
-- Reviewer, The International Conference on Machine Learning (ICML), 2025. *[(ICML'25 Top Reviewer Award)](https://icml.cc/Conferences/2025/Reviewers#top-meta-reviewer)*
+- Reviewer, The International Conference on Machine Learning (ICML), 2025. *[(ICML'25 Top Reviewer Award)](https://icml.cc/Conferences/2025/ProgramCommittee)*
 - Artifact Evaluation Committee, The USENIX Security Symposium (USENIX Security), 2025.
 - Reviewer, The IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025.
 - Reviewer, The International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
 - Reviewer, The International Conference on Learning Representations (ICLR), 2025. *[(ICLR'25 Notable Reviewer Award)](https://iclr.cc/Conferences/2025/Reviewers)*
 - Reviewer, Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025.
-- Reviewer, ACM Multimedia Conference (MM), 2024, 2025. *[(MM'24 Outstanding Reviewer Award)](https://2024.acmmm.org/outstanding-ac-reviewer)*
+- Reviewer, ACM Multimedia Conference (MM), 2024, 2025. *[(MM'24 Outstanding Reviewer)](https://2024.acmmm.org/outstanding-ac-reviewer)*
 - Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
 
 I have also reviewed paper for KDD, AAAI, IJCAI, ECCV, CVPR, ICML, and TPAMI.
