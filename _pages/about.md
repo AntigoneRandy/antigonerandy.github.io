@@ -23,7 +23,7 @@ I'm Boheng Li (李勃衡), a Ph.D. student at the [College of Computing and Data
 
 My research interests focus on trustworthy machine learning, with a particular emphasis on responsible (multimodal) generative models.
 
-🌟🌟 I am open to discussions and potential collaboration opportunities. If you're interested in working with me, Feel free to contact me via <a href="mailto:randy.bh.li@foxmail.com">Email</a> or <a href="https://antigonerandy.github.io/images/wechat.png">WeChat</a>.
+🌟🌟 I am open to discussions and potential collaboration opportunities. If you're interested in working with me, Feel free to contact me via <a href="mailto:randy.bh.li@foxmail.com">Email</a> or <a href="https://antigonerandy.github.io/images/wechat.jpg">WeChat</a>.
 
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
