@@ -31,8 +31,10 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
-  <li><em>2025.05:</em> 📝 I am invited as a reviewer for ACM MM Datasets 2025.</li>
-  <li><em>2025.05:</em> 📝 I will serve as the Artifact Evaluation Committee (AEC) for NDSS 2026.</li>
+  <li><em>2025.08:</em> 📝 I am invited as a reviewer for TMLR.</li>
+  <li><em>2025.08:</em> 📝 I am invited as a reviewer for TIP.</li>
+  <li><em>2025.07:</em> 📝 I am invited as a reviewer for ACM MM Datasets 2025.</li>
+  <li><em>2025.06:</em> 📝 I will serve as the Artifact Evaluation Committee (AEC) for NDSS 2026.</li>
   <li><em>2025.05:</em> 🏆 I received the Top Reviewer Award from ICML 2025.</li>
   <li><em>2025.05:</em> 🏆 I received the Notable Reviewer Award from ICLR 2025.</li>
   <li><em>2025.03:</em> 📝 I am invited as a reviewer for ICCV 2025.</li>
@@ -181,6 +183,8 @@ Dongyu Yao, **Boheng Li**$^\*$
 # 🎡 Activities
 
 ## Academic Services
+- Reviewer, The Transactions on Machine Learning Research (TMLR), 2025.
+- Reviewer, The Transactions on Image Processing (TIP), 2025.
 - Artifact Evaluation Committee, The Network and Distributed System Security Symposium (NDSS), 2026.
 - Reviewer, The International Conference on Computer Vision (ICCV), 2025.
 - Reviewer, The IEEE Transactions on Dependable and Secure Computing (TDSC), 2025.
@@ -194,7 +198,6 @@ Dongyu Yao, **Boheng Li**$^\*$
 - Reviewer, ACM Multimedia Conference (MM), 2024, 2025. *[(MM'24 Outstanding Reviewer)](https://2024.acmmm.org/outstanding-ac-reviewer)*
 - Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
 
-I have also reviewed paper for KDD, AAAI, IJCAI, ECCV, CVPR, ICML, and TPAMI.
 <!-- - Reviewer, ACM Multimedia (MM), 2023. -->
 <!-- - Sub-Reviewer, ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2023. -->
 <!-- - Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023. -->
