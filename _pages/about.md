@@ -101,9 +101,9 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 **Boheng Li**, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang   
 *arXiv, 2025*
 
-- [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://www.arxiv.org/abs/2502.18943)   
+<!-- - [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://www.arxiv.org/abs/2502.18943)   
 Yu He, **Boheng Li**, Liu Liu, Zhongjie Ba, Wei Dong, Yiming Li, Zhan Qin, Kui Ren, Chun Chen   
-*The 34th USENIX Security Symposium (USENIX Security), 2025*
+*The 34th USENIX Security Symposium (USENIX Security), 2025* -->
 
 - [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://arxiv.org/abs/2410.10437)   
 **Boheng Li**, Yanhao Wei, Yankai Fu, Zhenting Wang, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang   
