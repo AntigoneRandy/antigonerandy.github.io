@@ -19,7 +19,9 @@ redirect_from:
 
 Hi there 👋👋 !
 
-I'm Boheng Li (李勃衡), a Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, under the supervision of Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). I received my B.E. from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China, where I was advised by Prof. [Run Wang](http://wangrun.github.io/). During my undergraduate studies, I also worked as a research intern at the [State Key Laboratory of Blockchain and Data Security](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738118/page.htm), [Zhejiang University](https://www.zju.edu.cn/), China, collaborating with Dr. [Yiming Li](https://liyiming.tech/).
+I'm Boheng Li (李勃衡), a Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, under the supervision of Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). I received my B.E. from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China, where I was advised by Prof. [Run Wang](http://wangrun.github.io/). 
+
+<!-- During my undergraduate studies, I also worked as a research intern at the [State Key Laboratory of Blockchain and Data Security](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738118/page.htm), [Zhejiang University](https://www.zju.edu.cn/), China, collaborating with Dr. [Yiming Li](https://liyiming.tech/). -->
 
 My research interests focus on trustworthy machine learning, with a particular emphasis on responsible (multimodal) generative models.
 
@@ -198,9 +200,6 @@ Dongyu Yao, **Boheng Li**$^\*$
 - Reviewer, ACM Multimedia Conference (MM), 2024, 2025. *[(MM'24 Outstanding Reviewer)](https://2024.acmmm.org/outstanding-ac-reviewer)*
 - Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
 
-<!-- - Reviewer, ACM Multimedia (MM), 2023. -->
-<!-- - Sub-Reviewer, ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2023. -->
-<!-- - Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023. -->
 
 <!-- # 🧑‍🏫 Teaching Experiences
 - Teaching Assistant, Artificial Intelligence (AI), Undergrads, SCSE, WHU, Fall 2022. \[[理论复习课PPT](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/AI2022Review-BohengLi.pdf)\] \[[2022 Fall期末考试试卷PDF](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/AIFinalExam-Fall2022.pdf)\]
