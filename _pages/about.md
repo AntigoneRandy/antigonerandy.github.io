@@ -93,9 +93,9 @@ Jiahao Zhou, **Boheng Li**, Qingxiang Meng
 - [Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS](https://ieeexplore.ieee.org/document/9963810)   
 Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng   
 *The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
-<!-- - [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://arxiv.org/abs/2507.16302)   
+- [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://arxiv.org/abs/2507.16302)   
 **Boheng Li**, Renjie Gu, Junjie Wang, Leyi Qi, Yiming Li, Run Wang, Zhan Qin, Tianwei Zhang   
-*arXiv, 2025* -->
+*arXiv, 2025*
 
 - [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/abs/2507.16329)   
 **Boheng Li**, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang   
