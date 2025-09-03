@@ -33,6 +33,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2025.09:</em> 📝 I am invited as a reviewer for ICLR 2026.</li>
   <li><em>2025.08:</em> 📝 I am invited as a reviewer for AISTATS 2026.</li>
   <li><em>2025.08:</em> 📝 I am invited as a reviewer for TMLR.</li>
   <li><em>2025.08:</em> 📝 I am invited as a reviewer for TIP.</li>
@@ -191,7 +192,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 - Artifact Evaluation Committee, The Network and Distributed System Security Symposium (NDSS), 2026.
 - Artifact Evaluation Committee, The USENIX Security Symposium (USENIX Security), 2025.
 - Reviewer, The International Conference on Machine Learning (ICML), 2025. *[(ICML'25 Top Reviewer Award)](https://icml.cc/Conferences/2025/ProgramCommittee)*
-- Reviewer, The International Conference on Learning Representations (ICLR), 2025. *[(ICLR'25 Notable Reviewer Award)](https://iclr.cc/Conferences/2025/Reviewers)*
+- Reviewer, The International Conference on Learning Representations (ICLR), 2025, 2026. *[(ICLR'25 Notable Reviewer Award)](https://iclr.cc/Conferences/2025/Reviewers)*
 - Reviewer, Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025.
 - Reviewer, The International Conference on Computer Vision (ICCV), 2025.
 - Reviewer, ACM Multimedia Conference (MM), 2024, 2025. *[(MM'24 Outstanding Reviewer)](https://2024.acmmm.org/outstanding-ac-reviewer)*
