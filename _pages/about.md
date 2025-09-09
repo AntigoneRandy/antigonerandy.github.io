@@ -33,6 +33,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2025.09:</em> 🎉 One paper is accepted by IEEE S&P 2026.</li>
   <li><em>2025.09:</em> 📝 I am invited as a reviewer for ICLR 2026.</li>
   <li><em>2025.08:</em> 📝 I am invited as a reviewer for AISTATS 2026.</li>
   <li><em>2025.08:</em> 📝 I am invited as a reviewer for TMLR.</li>
@@ -102,7 +103,7 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 
 - [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/abs/2507.16329)   
 **Boheng Li**, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang   
-*arXiv, 2025*
+*The IEEE Symposium on Security and Privacy (S&P), 2026 (To Appear)*
 
 <!-- - [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://www.arxiv.org/abs/2502.18943)   
 Yu He, **Boheng Li**, Liu Liu, Zhongjie Ba, Wei Dong, Yiming Li, Zhan Qin, Kui Ren, Chun Chen   
