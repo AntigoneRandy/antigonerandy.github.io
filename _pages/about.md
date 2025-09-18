@@ -33,6 +33,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2025.09:</em> 🎉 Two (co)-first authored papers are accepted by NeurIPS 2025!</li>
   <li><em>2025.09:</em> 🎉 One paper is accepted by IEEE S&P 2026.</li>
   <li><em>2025.09:</em> 📝 I am invited as a reviewer for ICLR 2026.</li>
   <li><em>2025.08:</em> 📝 I am invited as a reviewer for AISTATS 2026.</li>
@@ -97,13 +98,17 @@ Jiahao Zhou, **Boheng Li**, Qingxiang Meng
 - [Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS](https://ieeexplore.ieee.org/document/9963810)   
 Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng   
 *The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
-- [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://arxiv.org/abs/2507.16302)   
-**Boheng Li**, Renjie Gu, Junjie Wang, Leyi Qi, Yiming Li, Run Wang, Zhan Qin, Tianwei Zhang   
-*arXiv, 2025*
-
 - [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/abs/2507.16329)   
 **Boheng Li**, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang   
 *The IEEE Symposium on Security and Privacy (S&P), 2026 (To Appear)*
+
+- [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://arxiv.org/abs/2507.16302)   
+**Boheng Li**, Renjie Gu, Junjie Wang, Leyi Qi, Yiming Li, Run Wang, Zhan Qin, Tianwei Zhang   
+*Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
+
+- [Taught Well Learned Ill: Towards Distillation-conditional Backdoor Attack]()   
+Yukun Chen$^\dagger$, **Boheng Li**$^\dagger$, Yu Yuan$^\dagger$, Leyi Qi, Yiming Li, Tianwei Zhang, Zhan Qin, Kui Ren   
+*Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
 
 <!-- - [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://www.arxiv.org/abs/2502.18943)   
 Yu He, **Boheng Li**, Liu Liu, Zhongjie Ba, Wei Dong, Yiming Li, Zhan Qin, Kui Ren, Chun Chen   
