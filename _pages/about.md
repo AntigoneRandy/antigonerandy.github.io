@@ -203,7 +203,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 ### Conference Reviewers
 - International Conference on Machine Learning (ICML), 2025. *[(ICML'25 Top Reviewer Award)](https://icml.cc/Conferences/2025/ProgramCommittee)*
 - International Conference on Learning Representations (ICLR), 2025, 2026. *[(ICLR'25 Notable Reviewer Award)](https://iclr.cc/Conferences/2025/Reviewers)*
-- Neural Information Processing Systems (NeurIPS), 2024, 2025.
+- Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025.
 - IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
 - ACM Multimedia Conference (ACM MM), 2024, 2025. *[(MM'24 Outstanding Reviewer)](https://2024.acmmm.org/outstanding-ac-reviewer)*
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2025, 2026.
