@@ -33,7 +33,8 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
-  <li><em>2025.09:</em> 🎉 Two (co)-first authored papers are accepted by NeurIPS 2025!</li>
+  <li><em>2025.10:</em> 📝 I am invited as a reviewer for CVPR 2026.</li>
+  <li><em>2025.09:</em> 🎉 Two (co)-first authored papers are accepted by NeurIPS 2025.</li>
   <li><em>2025.09:</em> 🎉 One paper is accepted by IEEE S&P 2026.</li>
   <li><em>2025.09:</em> 📝 I am invited as a reviewer for ICLR 2026.</li>
   <li><em>2025.08:</em> 📝 I am invited as a reviewer for AISTATS 2026.</li>
@@ -204,6 +205,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 - International Conference on Machine Learning (ICML), 2025. *[(ICML'25 Top Reviewer Award)](https://icml.cc/Conferences/2025/ProgramCommittee)*
 - International Conference on Learning Representations (ICLR), 2025, 2026. *[(ICLR'25 Notable Reviewer Award)](https://iclr.cc/Conferences/2025/Reviewers)*
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025.
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 - IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
 - ACM Multimedia Conference (ACM MM), 2024, 2025. *[(MM'24 Outstanding Reviewer)](https://2024.acmmm.org/outstanding-ac-reviewer)*
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2025, 2026.
