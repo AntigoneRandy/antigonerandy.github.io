@@ -19,9 +19,7 @@ redirect_from:
 
 Hi there 👋👋 !
 
-I'm Boheng Li (李勃衡), a Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, under the supervision of Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). I received my B.E. from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China, where I was advised by Prof. [Run Wang](http://wangrun.github.io/). 
-
-<!-- During my undergraduate studies, I also worked as a research intern at the [State Key Laboratory of Blockchain and Data Security](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738118/page.htm), [Zhejiang University](https://www.zju.edu.cn/), China, collaborating with Dr. [Yiming Li](https://liyiming.tech/). -->
+I'm Boheng Li (李勃衡), a Ph.D. student at the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, under the supervision of Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). I received my B.E. from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), China, where I was advised by Prof. [Run Wang](http://wangrun.github.io/). During my undergraduate studies, I also worked as a research intern at the [State Key Laboratory of Blockchain and Data Security](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738118/page.htm), [Zhejiang University](https://www.zju.edu.cn/), China, collaborating with Dr. [Yiming Li](https://liyiming.tech/).
 
 My research interests focus on trustworthy machine learning, with a particular emphasis on responsible (multimodal) generative models.
 
@@ -33,6 +31,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2025.11:</em> 📝 I am invited to serve as the Program Committee for EuroS&P 2026.</li>
   <li><em>2025.10:</em> 🎉 I am selected as the top reviewer for NeurIPS 2025.</li>
   <li><em>2025.10:</em> 📝 I am invited as a reviewer for CVPR 2026.</li>
   <li><em>2025.09:</em> 🎉 Two (co)-first authored papers are accepted by NeurIPS 2025.</li>
@@ -92,14 +91,6 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 $^\dagger$: equal contribution
 
-<!-- ## 🛰️ Geoinformatics & Remote Sensing
-- [Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation](https://ieeexplore.ieee.org/document/9963835)   
-Jiahao Zhou, **Boheng Li**, Qingxiang Meng   
-*The 29th International Conference on Geoinformatics (CPGIS), 2022*
-
-- [Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS](https://ieeexplore.ieee.org/document/9963810)   
-Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng   
-*The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
 - [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/abs/2507.16329)   
 **Boheng Li**, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang   
 *The IEEE Symposium on Security and Privacy (S&P), 2026 (To Appear)*
@@ -187,22 +178,22 @@ Dongyu Yao, **Boheng Li**$^\*$
 - *2021.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University* -->
 
-<!-- # 📖 Educations
+# 📖 Education
 - *2024.08 - Now*, Ph.D. Student, College of Computing and Data Science, Nanyang Technological University, Singapore. 
 - *2020.09 - 2024.06*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Information Security. 
-- *2017.09 - 2020.06*, Senior Middle School, Class of Olympic in Informatics, Chengdu Foreign Languages School, China.
-- *2014.09 - 2017.06*, Junior Middle School, Chengdu Foreign Languages School, China. -->
+- *2014.09 - 2020.07*, Middle School, Chengdu Foreign Languages School, China.
 
 # 🎡 Activities
 
 ## Academic Services
 
-### Program & Evaluation Committees
+### Program & Evaluation Committee
+- Program Committee, IEEE European Symposium on Security and Privacy 2025 (EuroS&P), 2026.
 - Program Committee, IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2026.
 - Artifact Evaluation Committee, Network and Distributed System Security Symposium (NDSS), 2026.
 - Artifact Evaluation Committee, USENIX Security Symposium (USENIX Security), 2025.
 
-### Conference Reviewers
+### Conference Reviewer
 - International Conference on Machine Learning (ICML), 2025. *[(ICML'25 Top Reviewer Award)](https://icml.cc/Conferences/2025/ProgramCommittee)*
 - International Conference on Learning Representations (ICLR), 2025, 2026. *[(ICLR'25 Notable Reviewer Award)](https://iclr.cc/Conferences/2025/Reviewers)*
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025. *[(NeurIPS'25 Top Reviewer Award)](https://neurips.cc/Conferences/2025/ProgramCommittee)*
