@@ -50,7 +50,7 @@ My research interests focus on trustworthy machine learning, with a particular e
   <!-- <li><em>2025.02:</em> 🎉 One paper is accepted by CVPR 2025.</li> -->
   <li><em>2025.02:</em> 📝 I am invited as a reviewer for NeurIPS 2025.</li>
   <li><em>2025.02:</em> 📝 I am invited as a reviewer for ACM MM 2025.</li>
-  <li><em>2025.01:</em> 🎉 One paper is accepted by USENIX Security 2025.</li>
+  <!-- <li><em>2025.01:</em> 🎉 One paper is accepted by USENIX Security 2025.</li> -->
   <li><em>2025.01:</em> 📝 I am invited as a reviewer for IEEE TIFS.</li>
   <li><em>2024.12:</em> 📝 I am invited as a reviewer for ICML 2025.</li>
   <!-- <li><em>2024.12:</em> 🎉 One paper is accepted by AAAI 2025.</li> -->
@@ -79,7 +79,7 @@ My research interests focus on trustworthy machine learning, with a particular e
   <li><em>2022.08:</em> 🏆 Our team "AntiE" won the Outstanding Winner Award in the 14th Shenzhen Innovation and Entrepreneurship Competition.</li>
   <li><em>2022.07:</em> 🎓 This semester ended with a GPA of 4.0/4.0 and an average score of 95.47/100.</li>
   <li><em>2022.07:</em> 🏆 I won the Second Prize in the Lanqiao Cup national finals.</li>
-  <li><em>2022.07:</em> 🏆 Our team "AntiE" won the Golden Prize in the "Challenge Cup" Innovation and Entrepreneurship Competition, Hubei Province Division, and successfully entered the National Competition.</li> 
+  <!-- <li><em>2022.07:</em> 🏆 Our team "AntiE" won the Golden Prize in the "Challenge Cup" Innovation and Entrepreneurship Competition, Hubei Province Division, and successfully entered the National Competition.</li>  -->
   <!-- <li><em>2022.06:</em> 🏆 I was awarded as a "Social Activity Activist" by Wuhan University.</li> -->
   <!-- <li><em>2022.06:</em> 📄 Our paper "Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation" was accepted by Geoinformatics 2022. <a href="https://arxiv.org/pdf/2209.09131.pdf">[PDF]</a></li> -->
   <!-- <li><em>2022.06:</em> 📄 Our paper "Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS" was accepted by Geoinformatics 2022. <a href="https://arxiv.org/pdf/2209.07687.pdf">[PDF]</a></li> -->
@@ -99,11 +99,12 @@ $^\dagger$: equal contribution
 **Boheng Li**, Renjie Gu, Junjie Wang, Leyi Qi, Yiming Li, Run Wang, Zhan Qin, Tianwei Zhang   
 *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
 
-- [Taught Well Learned Ill: Towards Distillation-conditional Backdoor Attack]()   
+- [Taught Well Learned Ill: Towards Distillation-conditional Backdoor Attack](https://arxiv.org/abs/2509.23871)   
 Yukun Chen$^\dagger$, **Boheng Li**$^\dagger$, Yu Yuan$^\dagger$, Leyi Qi, Yiming Li, Tianwei Zhang, Zhan Qin, Kui Ren   
 *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
 
-<!-- - [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://www.arxiv.org/abs/2502.18943)   
+<!-- 
+- [Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://www.arxiv.org/abs/2502.18943)   
 Yu He, **Boheng Li**, Liu Liu, Zhongjie Ba, Wei Dong, Yiming Li, Zhan Qin, Kui Ren, Chun Chen   
 *The 34th USENIX Security Symposium (USENIX Security), 2025* -->
 
@@ -177,11 +178,11 @@ Dongyu Yao, **Boheng Li**$^\*$
 - *2021.10* **HUANG Zhangren Scholarship** (Award Rate: 60/59774=0.1%, 60 candidates per year in WHU) *Wuhan University* 
 - *2021.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University* -->
-
+<!-- 
 # 📖 Education
 - *2024.08 - Now*, Ph.D. Student, College of Computing and Data Science, Nanyang Technological University, Singapore. 
 - *2020.09 - 2024.06*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Information Security. 
-- *2014.09 - 2020.07*, Middle School, Chengdu Foreign Languages School, China.
+- *2014.09 - 2020.07*, Middle School, Chengdu Foreign Languages School, China. -->
 
 # 🎡 Activities
 
