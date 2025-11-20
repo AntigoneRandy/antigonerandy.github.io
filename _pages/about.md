@@ -191,7 +191,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 
 ### Program & Evaluation Committee
 - Program Committee, The ACM Conference on Computer and Communications Security (CCS), 2026.
-- Program Committee, IEEE European Symposium on Security and Privacy 2025 (EuroS&P), 2026.
+- Program Committee, IEEE European Symposium on Security and Privacy (EuroS&P), 2026.
 - Program Committee, IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2026.
 - Artifact Evaluation Committee, Network and Distributed System Security Symposium (NDSS), 2026.
 - Artifact Evaluation Committee, USENIX Security Symposium (USENIX Security), 2025.
