@@ -32,6 +32,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
   <li><em>2025.11:</em> 📝 I am invited to serve as the Program Committee for EuroS&P 2026.</li>
+  <li><em>2025.11:</em> 📝 I am invited to serve as the Program Committee for CCS 2026.</li>
   <li><em>2025.10:</em> 🎉 I am selected as the top reviewer for NeurIPS 2025.</li>
   <li><em>2025.10:</em> 📝 I am invited as a reviewer for CVPR 2026.</li>
   <li><em>2025.09:</em> 🎉 Two (co)-first authored papers are accepted by NeurIPS 2025.</li>
@@ -189,6 +190,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 ## Academic Services
 
 ### Program & Evaluation Committee
+- Program Committee, The ACM Conference on Computer and Communications Security (CCS), 2026.
 - Program Committee, IEEE European Symposium on Security and Privacy 2025 (EuroS&P), 2026.
 - Program Committee, IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2026.
 - Artifact Evaluation Committee, Network and Distributed System Security Symposium (NDSS), 2026.
