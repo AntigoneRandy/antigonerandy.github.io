@@ -92,11 +92,11 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 $^\dagger$: equal contribution
 
-- [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://www.computer.org/csdl/proceedings-article/sp/2026/606500c085/2bojwDkVH0Y)   
+- [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/abs/2507.16329)   
 **Boheng Li**, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang   
 *The IEEE Symposium on Security and Privacy (S&P), 2026 (To Appear)*
 
-- [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://openreview.net/pdf?id=iEtCCt6FjP)   
+- [Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](https://arxiv.org/abs/2507.16302)   
 **Boheng Li**, Renjie Gu, Junjie Wang, Leyi Qi, Yiming Li, Run Wang, Zhan Qin, Tianwei Zhang   
 *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
 
