@@ -31,6 +31,10 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2026.04:</em> 🏆 I received the "Top 200 Reviewers" Award from ICLR 2026.</li>
+  <li><em>2026.03:</em> 📝 I am invited to serve as the reviewer for ECCV 2026.</li>
+  <li><em>2026.03:</em> 📝 I am invited to serve as the reviewer for ICMR 2026.</li>
+  <li><em>2026.03:</em> 📝 I am invited to serve as the Program Committee for ACSAC 2026.</li>
   <li><em>2025.11:</em> 📝 I am invited to serve as the Program Committee for EuroS&P 2026.</li>
   <li><em>2025.11:</em> 📝 I am invited to serve as the Program Committee for CCS 2026.</li>
   <li><em>2025.10:</em> 🎉 I am selected as the top reviewer for NeurIPS 2025.</li>
@@ -64,7 +68,7 @@ My research interests focus on trustworthy machine learning, with a particular e
   <li><em>2024.02:</em> 🏆 Our team won the Outstanding Prize of Innova University Student Innovation Achievement Award.</li>
   <li><em>2024.01:</em> 📝 I am invited as a reviewer for ACM MM 2024.</li>
   <!-- <li><em>2023.12:</em> 🎉 One paper is accepted by AAAI 2024.</li> -->
-  <!-- <li><em>2023.10:</em> 🏆 I am awarded with National Scholarship 2023.</li>
+  <li><em>2023.10:</em> 🏆 I am awarded with National Scholarship 2023.</li>
   <li><em>2023.08:</em> 📝 I am invited as a reviewer by ACM TOMM.</li>
   <!-- <li><em>2023.08:</em> 🎉 One paper is accepted by ICCVW UnCV 2023.</li> -->
   <!-- <li><em>2023.07:</em> 🎉 One paper is accepted by ACM MM 2023.</li> -->
@@ -193,17 +197,20 @@ Dongyu Yao, **Boheng Li**$^\*$
 - Program Committee, The ACM Conference on Computer and Communications Security (CCS), 2026.
 - Program Committee, IEEE European Symposium on Security and Privacy (EuroS&P), 2026.
 - Program Committee, IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2026.
+- Program Committee, The IEEE Annual Computer Security Applications Conference (ACSAC), 2026.
 - Artifact Evaluation Committee, Network and Distributed System Security Symposium (NDSS), 2026.
 - Artifact Evaluation Committee, USENIX Security Symposium (USENIX Security), 2025.
 
 ### Conference Reviewer
-- International Conference on Machine Learning (ICML), 2025. *[(ICML'25 Top Reviewer Award)](https://icml.cc/Conferences/2025/ProgramCommittee)*
-- International Conference on Learning Representations (ICLR), 2025, 2026. *[(ICLR'25 Notable Reviewer Award)](https://iclr.cc/Conferences/2025/Reviewers)*
+- International Conference on Machine Learning (ICML), 2025, 2026. *[(ICML'25 Top Reviewer Award)](https://icml.cc/Conferences/2025/ProgramCommittee)*
+- International Conference on Learning Representations (ICLR), 2025, 2026. *[(ICLR'25 Notable Reviewer Award)](https://iclr.cc/Conferences/2025/Reviewers)*, *[(ICLR'26 Top 200 Reviewers Award)](https://iclr.cc/Conferences/2025/Reviewers)*
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025. *[(NeurIPS'25 Top Reviewer Award)](https://neurips.cc/Conferences/2025/ProgramCommittee)*
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 - IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
 - ACM Multimedia Conference (ACM MM), 2024, 2025. *[(MM'24 Outstanding Reviewer)](https://2024.acmmm.org/outstanding-ac-reviewer)*
+- The European Conference on Computer Vision (ECCV), 2026.
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2025, 2026.
+- International Conference on Multimedia Retrieval (ICMR), 2026.
 
 ### Journal Reviewers
 - Transactions on Machine Learning Research (TMLR), 2025.
