@@ -183,11 +183,11 @@ Dongyu Yao, **Boheng Li**$^\*$
 - *2021.10* **HUANG Zhangren Scholarship** (Award Rate: 60/59774=0.1%, 60 candidates per year in WHU) *Wuhan University* 
 - *2021.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University* -->
-<!-- 
+
 # 📖 Education
-- *2024.08 - Now*, Ph.D. Student, College of Computing and Data Science, Nanyang Technological University, Singapore. 
-- *2020.09 - 2024.06*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Information Security. 
-- *2014.09 - 2020.07*, Middle School, Chengdu Foreign Languages School, China. -->
+- *2024.08 - Now*, Ph.D. candidate, College of Computing and Data Science, Nanyang Technological University, Singapore. 
+- *2020.09 - 2024.06*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China.
+- *2014.09 - 2020.07*, Middle School, Chengdu Foreign Languages School, China.
 
 # 🎡 Activities
 
