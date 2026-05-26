@@ -31,6 +31,7 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2026.05:</em> 📝 I am invited to serve as the reviewer for IEEE S&P Magazine.</li>
   <li><em>2026.04:</em> 🏆 I received the "Top 200 Reviewers" Award from ICLR 2026.</li>
   <li><em>2026.03:</em> 📝 I am invited to serve as the reviewer for ECCV 2026.</li>
   <li><em>2026.03:</em> 📝 I am invited to serve as the reviewer for ICMR 2026.</li>
@@ -213,6 +214,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 - International Conference on Multimedia Retrieval (ICMR), 2026.
 
 ### Journal Reviewers
+- IEEE S&P Magazine, 2026.
 - Transactions on Machine Learning Research (TMLR), 2025.
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2025.
 - IEEE Transactions on Information Forensics & Security (TIFS), 2025.
