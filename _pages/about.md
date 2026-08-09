@@ -25,56 +25,37 @@ My research interests focus on trustworthy machine learning, with a particular e
 
 🌟🌟 I am open to discussions and potential collaboration opportunities. If you're interested in working with me, feel free to contact me via <a href="mailto:randy.bh.li@foxmail.com">Email</a> or <a href="https://antigonerandy.github.io/images/wechat.jpg">WeChat</a>.
 
-<!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
-
 # 🔥 News
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
-  <li><em>2026.05:</em> 📝 I am invited to serve as the reviewer for IEEE S&P Magazine.</li>
+  <li><em>2026.08:</em> 🏆 Our team KVeil won the <b>🏅 Champion (1st Place)</b> in <b>both</b> the preliminary and final phases of the <a href="https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit">LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization</a> @ ECCV 2026! Our technical report and paper will be available soon.</li>
+  <li><em>2026.05:</em> 📝 I am invited to serve as a reviewer for IEEE S&P Magazine, ECCV 2026, and ICMR 2026, and as the Program Committee for ACSAC 2026.</li>
   <li><em>2026.04:</em> 🏆 I received the "Top 200 Reviewers" Award from ICLR 2026.</li>
-  <li><em>2026.03:</em> 📝 I am invited to serve as the reviewer for ECCV 2026.</li>
-  <li><em>2026.03:</em> 📝 I am invited to serve as the reviewer for ICMR 2026.</li>
-  <li><em>2026.03:</em> 📝 I am invited to serve as the Program Committee for ACSAC 2026.</li>
-  <li><em>2025.11:</em> 📝 I am invited to serve as the Program Committee for EuroS&P 2026.</li>
-  <li><em>2025.11:</em> 📝 I am invited to serve as the Program Committee for CCS 2026.</li>
+  <li><em>2025.11:</em> 📝 I am invited to serve as the Program Committee for CCS 2026 and EuroS&P 2026.</li>
   <li><em>2025.10:</em> 🎉 I am selected as the top reviewer for NeurIPS 2025.</li>
-  <li><em>2025.10:</em> 📝 I am invited as a reviewer for CVPR 2026.</li>
+  <li><em>2025.10:</em> 📝 I am invited as a reviewer for ICLR 2026, CVPR 2026, AISTATS 2026, TMLR, and IEEE TIP.</li>
   <li><em>2025.09:</em> 🎉 Two (co)-first authored papers are accepted by NeurIPS 2025.</li>
   <li><em>2025.09:</em> 🎉 One paper is accepted by IEEE S&P 2026.</li>
-  <li><em>2025.09:</em> 📝 I am invited as a reviewer for ICLR 2026.</li>
-  <li><em>2025.08:</em> 📝 I am invited as a reviewer for AISTATS 2026.</li>
-  <li><em>2025.08:</em> 📝 I am invited as a reviewer for TMLR.</li>
-  <li><em>2025.08:</em> 📝 I am invited as a reviewer for TIP.</li>
-  <li><em>2025.07:</em> 📝 I am invited as a reviewer for ACM MM Datasets 2025.</li>
-  <li><em>2025.07:</em> 📝 I will serve as the Program Committee (PC) for SaTML 2026.</li>
-  <li><em>2025.06:</em> 📝 I will serve as the Artifact Evaluation Committee (AEC) for NDSS 2026.</li>
+  <li><em>2025.07:</em> 📝 I am invited to serve as the Program Committee for SaTML 2026, the Artifact Evaluation Committee for NDSS 2026, and a reviewer for ACM MM Datasets 2025.</li>
   <li><em>2025.05:</em> 🏆 I received the Top Reviewer Award from ICML 2025.</li>
   <li><em>2025.05:</em> 🏆 I received the Notable Reviewer Award from ICLR 2025.</li>
-  <li><em>2025.03:</em> 📝 I am invited as a reviewer for ICCV 2025.</li>
-  <li><em>2025.03:</em> 📝 I am invited as a reviewer for IEEE TDSC.</li>
   <!-- <li><em>2025.02:</em> 🎉 One paper is accepted by CVPR 2025.</li> -->
-  <li><em>2025.02:</em> 📝 I am invited as a reviewer for NeurIPS 2025.</li>
-  <li><em>2025.02:</em> 📝 I am invited as a reviewer for ACM MM 2025.</li>
+  <li><em>2025.03:</em> 📝 I am invited as a reviewer for NeurIPS 2025, ICCV 2025, ACM MM 2025, IEEE TDSC, and IEEE TIFS.</li>
   <!-- <li><em>2025.01:</em> 🎉 One paper is accepted by USENIX Security 2025.</li> -->
-  <li><em>2025.01:</em> 📝 I am invited as a reviewer for IEEE TIFS.</li>
-  <li><em>2024.12:</em> 📝 I am invited as a reviewer for ICML 2025.</li>
   <!-- <li><em>2024.12:</em> 🎉 One paper is accepted by AAAI 2025.</li> -->
-  <li><em>2024.11:</em> 📝 I will serve as the Artifact Evaluation Committee (AEC) for USENIX Security 2025.</li>
-  <li><em>2024.11:</em> 📝 I am invited as a reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).</li>
+  <li><em>2024.12:</em> 📝 I am invited as a reviewer for ICML 2025 and IEEE TCSVT, and to serve as the Artifact Evaluation Committee for USENIX Security 2025.</li>
   <li><em>2024.11:</em> 🏆 I received the Outstanding Reviewer Award from ACM MM 2024.</li>
   <li><em>2024.09:</em> 🎉 One paper is accepted by S&P 2025.</li>
   <li><em>2024.05:</em> 🎉 One paper is accepted by ICML 2024.</li>
   <li><em>2024.02:</em> 🎉 One paper is accepted by CVPR 2024.</li>
   <li><em>2024.02:</em> 🏆 Our team won the Outstanding Prize of Innova University Student Innovation Achievement Award.</li>
-  <li><em>2024.01:</em> 📝 I am invited as a reviewer for ACM MM 2024.</li>
+  <li><em>2024.01:</em> 📝 I am invited as a reviewer for ACM MM 2023, 2024 and ACM TOMM.</li>
   <!-- <li><em>2023.12:</em> 🎉 One paper is accepted by AAAI 2024.</li> -->
   <li><em>2023.10:</em> 🏆 I am awarded with National Scholarship 2023.</li>
-  <li><em>2023.08:</em> 📝 I am invited as a reviewer by ACM TOMM.</li>
   <!-- <li><em>2023.08:</em> 🎉 One paper is accepted by ICCVW UnCV 2023.</li> -->
   <!-- <li><em>2023.07:</em> 🎉 One paper is accepted by ACM MM 2023.</li> -->
   <li><em>2023.07:</em> 🎉 One paper is accepted by ICCV 2023.</li>
-  <li><em>2023.06:</em> 📝 I am invited as a reviewer by ACM MM.</li>
   <li><em>2023.02:</em> 🏆 I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd.</li>
   <li><em>2022.11:</em> 🏆 Our team "AntiE" won the Gold Reward (national highest award, award rate &lt; 0.01%) at the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition. Thanks to all teammates and advisors!</li>
   <li><em>2022.10:</em> 🏆 I won the National Scholarship (0.2% national-wide) and was selected as Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).</li>
@@ -185,10 +166,13 @@ Dongyu Yao, **Boheng Li**$^\*$
 - *2021.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University* -->
 
+# 🏆 Selected Awards
+- **🏅 Champion (1st Place)** of both the Preliminary (Phase 1, white-box) and Final (Phase 2, overall) phases, [LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization](https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit) @ ECCV 2026, team leader. *2026.08*
+
 # 📖 Education
 - *2024.08 - Now*, Ph.D. candidate, College of Computing and Data Science, Nanyang Technological University, Singapore. 
 - *2020.09 - 2024.06*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China.
-- *2014.09 - 2020.07*, Middle School, Chengdu Foreign Languages School, China.
+<!-- - *2014.09 - 2020.07*, Middle & High School, Chengdu Foreign Languages School, China. -->
 
 # 🎡 Activities
 
@@ -204,7 +188,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 
 ### Conference Reviewer
 - International Conference on Machine Learning (ICML), 2025, 2026. *[(ICML'25 Top Reviewer Award)](https://icml.cc/Conferences/2025/ProgramCommittee)*
-- International Conference on Learning Representations (ICLR), 2025, 2026. *[(ICLR'25 Notable Reviewer Award)](https://iclr.cc/Conferences/2025/Reviewers)*, *[(ICLR'26 Top 200 Reviewers Award)](https://iclr.cc/Conferences/2025/Reviewers)*
+- International Conference on Learning Representations (ICLR), 2025, 2026. *[(ICLR'25 Notable Reviewer Award)](https://iclr.cc/Conferences/2025/Reviewers)*, *[(ICLR'26 Top 200 Reviewers Award)](https://iclr.cc/Conferences/2026/ProgramCommittee)*
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025. *[(NeurIPS'25 Top Reviewer Award)](https://neurips.cc/Conferences/2025/ProgramCommittee)*
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 - IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
