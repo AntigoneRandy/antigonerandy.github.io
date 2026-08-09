@@ -31,21 +31,16 @@ My research interests focus on trustworthy machine learning, with a particular e
 <ul>
   <li><em>2026.08:</em> 🏆 Our team KVeil won the <b>🏅 Champion (1st Place)</b> in <b>both</b> the preliminary and final phases of the <a href="https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit">LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization</a> @ ECCV 2026! Our technical report and paper will be available soon.</li>
   <li><em>2026.05:</em> 📝 I am invited to serve as a reviewer for IEEE S&P Magazine, ECCV 2026, and ICMR 2026, and as the Program Committee for ACSAC 2026.</li>
-  <li><em>2026.04:</em> 🏆 I received the "Top 200 Reviewers" Award from ICLR 2026.</li>
   <li><em>2025.11:</em> 📝 I am invited to serve as the Program Committee for CCS 2026 and EuroS&P 2026.</li>
-  <li><em>2025.10:</em> 🎉 I am selected as the top reviewer for NeurIPS 2025.</li>
   <li><em>2025.10:</em> 📝 I am invited as a reviewer for ICLR 2026, CVPR 2026, AISTATS 2026, TMLR, and IEEE TIP.</li>
   <li><em>2025.09:</em> 🎉 Two (co)-first authored papers are accepted by NeurIPS 2025.</li>
   <li><em>2025.09:</em> 🎉 One paper is accepted by IEEE S&P 2026.</li>
   <li><em>2025.07:</em> 📝 I am invited to serve as the Program Committee for SaTML 2026, the Artifact Evaluation Committee for NDSS 2026, and a reviewer for ACM MM Datasets 2025.</li>
-  <li><em>2025.05:</em> 🏆 I received the Top Reviewer Award from ICML 2025.</li>
-  <li><em>2025.05:</em> 🏆 I received the Notable Reviewer Award from ICLR 2025.</li>
   <!-- <li><em>2025.02:</em> 🎉 One paper is accepted by CVPR 2025.</li> -->
   <li><em>2025.03:</em> 📝 I am invited as a reviewer for NeurIPS 2025, ICCV 2025, ACM MM 2025, IEEE TDSC, and IEEE TIFS.</li>
   <!-- <li><em>2025.01:</em> 🎉 One paper is accepted by USENIX Security 2025.</li> -->
   <!-- <li><em>2024.12:</em> 🎉 One paper is accepted by AAAI 2025.</li> -->
   <li><em>2024.12:</em> 📝 I am invited as a reviewer for ICML 2025 and IEEE TCSVT, and to serve as the Artifact Evaluation Committee for USENIX Security 2025.</li>
-  <li><em>2024.11:</em> 🏆 I received the Outstanding Reviewer Award from ACM MM 2024.</li>
   <li><em>2024.09:</em> 🎉 One paper is accepted by S&P 2025.</li>
   <li><em>2024.05:</em> 🎉 One paper is accepted by ICML 2024.</li>
   <li><em>2024.02:</em> 🎉 One paper is accepted by CVPR 2024.</li>
@@ -168,6 +163,13 @@ Dongyu Yao, **Boheng Li**$^\*$
 
 # 🏆 Selected Awards
 - **🏅 Champion (1st Place)** of both the Preliminary (Phase 1, white-box) and Final (Phase 2, overall) phases, [LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization](https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit) @ ECCV 2026, team leader. *2026.08*
+- **Top 200 Reviewers Award**, [ICLR 2026](https://iclr.cc/Conferences/2026/ProgramCommittee). *2026.04*
+- **Top Reviewer Award**, [NeurIPS 2025](https://neurips.cc/Conferences/2025/ProgramCommittee). *2025.10*
+- **Top Reviewer Award**, [ICML 2025](https://icml.cc/Conferences/2025/ProgramCommittee). *2025.05*
+- **Notable Reviewer Award**, [ICLR 2025](https://iclr.cc/Conferences/2025/Reviewers). *2025.05*
+- **Outstanding Reviewer Award**, [ACM MM 2024](https://2024.acmmm.org/outstanding-ac-reviewer). *2024.11*
+- **National Scholarship** (top 0.2% nationwide), Ministry of Education, China. *2023.10*
+- **National Scholarship** (top 0.2% nationwide), Ministry of Education, China. *2022.10*
 
 # 📖 Education
 - *2024.08 - Now*, Ph.D. candidate, College of Computing and Data Science, Nanyang Technological University, Singapore. 
@@ -187,12 +189,12 @@ Dongyu Yao, **Boheng Li**$^\*$
 - Artifact Evaluation Committee, USENIX Security Symposium (USENIX Security), 2025.
 
 ### Conference Reviewer
-- International Conference on Machine Learning (ICML), 2025, 2026. *[(ICML'25 Top Reviewer Award)](https://icml.cc/Conferences/2025/ProgramCommittee)*
-- International Conference on Learning Representations (ICLR), 2025, 2026. *[(ICLR'25 Notable Reviewer Award)](https://iclr.cc/Conferences/2025/Reviewers)*, *[(ICLR'26 Top 200 Reviewers Award)](https://iclr.cc/Conferences/2026/ProgramCommittee)*
-- Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025. *[(NeurIPS'25 Top Reviewer Award)](https://neurips.cc/Conferences/2025/ProgramCommittee)*
+- International Conference on Machine Learning (ICML), 2025, 2026.
+- International Conference on Learning Representations (ICLR), 2025, 2026.
+- Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025.
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 - IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
-- ACM Multimedia Conference (ACM MM), 2024, 2025. *[(MM'24 Outstanding Reviewer)](https://2024.acmmm.org/outstanding-ac-reviewer)*
+- ACM Multimedia Conference (ACM MM), 2024, 2025.
 - The European Conference on Computer Vision (ECCV), 2026.
 - International Conference on Artificial Intelligence and Statistics (AISTATS), 2025, 2026.
 - International Conference on Multimedia Retrieval (ICMR), 2026.
