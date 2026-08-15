@@ -183,14 +183,14 @@ Dongyu Yao, **Boheng Li**$^\*$
 ### Program & Evaluation Committee
 - Program Committee, The ACM Conference on Computer and Communications Security (CCS), 2026.
 - Program Committee, IEEE European Symposium on Security and Privacy (EuroS&P), 2026.
-- Program Committee, IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2026.
+- Program Committee, IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2026, 2027.
 - Program Committee, The IEEE Annual Computer Security Applications Conference (ACSAC), 2026.
 - Artifact Evaluation Committee, Network and Distributed System Security Symposium (NDSS), 2026.
 - Artifact Evaluation Committee, USENIX Security Symposium (USENIX Security), 2025.
 
 ### Conference Reviewer
 - International Conference on Machine Learning (ICML), 2025, 2026.
-- International Conference on Learning Representations (ICLR), 2025, 2026.
+- International Conference on Learning Representations (ICLR), 2025, 2026, 2027.
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025.
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 - IEEE/CVF International Conference on Computer Vision (ICCV), 2025.
