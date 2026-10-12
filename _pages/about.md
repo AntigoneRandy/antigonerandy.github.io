@@ -29,7 +29,8 @@ My research centers on **responsible (multimodal) generative models**, i.e., the
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
-  <li><em>2026.08:</em> 🏆 Our team KVeil won the <b>🏅 Champion (1st Place)</b> in <b>both</b> the preliminary and final phases of the <a href="https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit">LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization</a> @ ECCV 2026! Our technical report and paper will be available soon.</li>
+  <li><em>2026.10:</em> 📄 Our paper <a href="https://arxiv.org/abs/2610.13333">LETHE</a> on defending against unauthorized image-to-video generation, together with the <a href="https://arxiv.org/abs/2610.13733">technical report</a> of our LifeGenIP champion first-place solution KVeil, is now available on arXiv!</li>
+  <li><em>2026.08:</em> 🏆 Our team KVeil won the <b>🏅 Champion (1st Place)</b> in <b>both</b> the preliminary and final phases of the <a href="https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit">LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization</a> @ ECCV 2026! Check out our <a href="https://arxiv.org/abs/2610.13733">technical report</a> and <a href="https://arxiv.org/abs/2610.13333">paper</a>!</li>
   <li><em>2026.05:</em> 📝 I am invited to serve as a reviewer for IEEE S&P Magazine, ECCV 2026, and ICMR 2026, and as the Program Committee for ACSAC 2026.</li>
   <li><em>2025.11:</em> 📝 I am invited to serve as the Program Committee for CCS 2026 and EuroS&P 2026.</li>
   <li><em>2025.10:</em> 📝 I am invited as a reviewer for ICLR 2026, CVPR 2026, AISTATS 2026, TMLR, and IEEE TIP.</li>
@@ -55,12 +56,12 @@ My research centers on **responsible (multimodal) generative models**, i.e., the
   <li><em>2022.11:</em> 🏆 Our team "AntiE" won the Gold Reward (national highest award, award rate &lt; 0.01%) at the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition. Thanks to all teammates and advisors!</li>
   <li><em>2022.10:</em> 🏆 I won the National Scholarship (0.2% national-wide) and was selected as Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).</li>
   <!-- <li><em>2022.10:</em> 🏆 I ranked 1/157 in the 2022 Comprehensive Assessment of SCSE with a full score in practice and innovation ability. My total score surpassed the second place by 11%.</li> -->
-  <li><em>2022.08:</em> 🏆 Our team won the Outstanding Winner Award (highest award) in the 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition.</li>
-  <li><em>2022.08:</em> 🏆 Our team "AntiE" won the Golden Prize in the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Division, and successfully entered the National Finals.</li>
-  <li><em>2022.08:</em> 🏆 Our team won the First Prize in the 15th Chinese Collegiate Computing Competition National Finals (4C'2022).</li>
-  <li><em>2022.08:</em> 🏆 Our team "AntiE" won the Outstanding Winner Award in the 14th Shenzhen Innovation and Entrepreneurship Competition.</li>
-  <li><em>2022.07:</em> 🎓 This semester ended with a GPA of 4.0/4.0 and an average score of 95.47/100.</li>
-  <li><em>2022.07:</em> 🏆 I won the Second Prize in the Lanqiao Cup national finals.</li>
+  <!-- <li><em>2022.08:</em> 🏆 Our team won the Outstanding Winner Award (highest award) in the 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition.</li> -->
+  <!-- <li><em>2022.08:</em> 🏆 Our team "AntiE" won the Golden Prize in the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Division, and successfully entered the National Finals.</li> -->
+  <!-- <li><em>2022.08:</em> 🏆 Our team won the First Prize in the 15th Chinese Collegiate Computing Competition National Finals (4C'2022).</li> -->
+  <!-- <li><em>2022.08:</em> 🏆 Our team "AntiE" won the Outstanding Winner Award in the 14th Shenzhen Innovation and Entrepreneurship Competition.</li> -->
+  <!-- <li><em>2022.07:</em> 🎓 This semester ended with a GPA of 4.0/4.0 and an average score of 95.47/100.</li> -->
+  <!-- <li><em>2022.07:</em> 🏆 I won the Second Prize in the Lanqiao Cup national finals.</li> -->
   <!-- <li><em>2022.07:</em> 🏆 Our team "AntiE" won the Golden Prize in the "Challenge Cup" Innovation and Entrepreneurship Competition, Hubei Province Division, and successfully entered the National Competition.</li>  -->
   <!-- <li><em>2022.06:</em> 🏆 I was awarded as a "Social Activity Activist" by Wuhan University.</li> -->
   <!-- <li><em>2022.06:</em> 📄 Our paper "Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation" was accepted by Geoinformatics 2022. <a href="https://arxiv.org/pdf/2209.09131.pdf">[PDF]</a></li> -->
@@ -69,9 +70,13 @@ My research centers on **responsible (multimodal) generative models**, i.e., the
 </div>
 
 
-# 📝 Selected Publications 
+# 📝 Selected Publications / Preprints
 
 $^\dagger$: equal contribution
+
+- [LETHE: Defending against Unauthorized Image-to-Video Generation via Value Diversity Collapse](https://arxiv.org/abs/2610.13333)   
+**Boheng Li**, Yueming Xing, Yiming Li, Jie Zhang, Tianwei Zhang   
+*arXiv preprint, 2026*
 
 - [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/abs/2507.16329)   
 **Boheng Li**, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang   
@@ -162,7 +167,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 - *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University* -->
 
 # 🏆 Selected Awards
-- **🏅 Champion (1st Place)** of both the Preliminary (Phase 1, white-box) and Final (Phase 2, overall) phases, [LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization](https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit) @ ECCV 2026, team leader. *2026.08*
+- **🏅 Champion (1st Place)** of both the Preliminary (Phase 1, white-box) and Final (Phase 2, overall) phases, [LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization](https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit) @ ECCV 2026, team leader ([Tech Report](https://arxiv.org/abs/2610.13733)). *2026.08*
 - **Top 200 Reviewers Award**, [ICLR 2026](https://iclr.cc/Conferences/2026/ProgramCommittee). *2026.04*
 - **Top Reviewer Award**, [NeurIPS 2025](https://neurips.cc/Conferences/2025/ProgramCommittee). *2025.10*
 - **Top Reviewer Award**, [ICML 2025](https://icml.cc/Conferences/2025/ProgramCommittee). *2025.05*
