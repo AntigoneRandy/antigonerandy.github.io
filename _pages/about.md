@@ -80,7 +80,7 @@ $^\dagger$: equal contribution
 
 - [KVeil: First-Place Solution to ECCV 2026 LifeGenIP Challenge on Unlearnable Videos](https://arxiv.org/abs/2610.13733)   
 **Boheng Li**, Yueming Xing, Yiming Li, Jie Zhang, Han Qiu, Tianwei Zhang   
-*The ECCV Workshop on LifeGenIP (Non-archival Track), 2026*   
+*The ECCV Workshop on LifeGenIP (Competition Technical Report, Non-archival Track), 2026*   
 *Winning Solution of the ECCV 2026 LifeGenIP Challenge on Unlearnable Videos against Diffusion-based Customization*
 
 - [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/abs/2507.16329)   
