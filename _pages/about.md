@@ -195,6 +195,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 - Program Committee, IEEE European Symposium on Security and Privacy (EuroS&P), 2026.
 - Program Committee, IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2026, 2027.
 - Program Committee, The IEEE Annual Computer Security Applications Conference (ACSAC), 2026.
+- Artifact Evaluation Committee, IEEE Symposium on Security and Privacy (S&P), 2027.
 - Artifact Evaluation Committee, Network and Distributed System Security Symposium (NDSS), 2026.
 - Artifact Evaluation Committee, USENIX Security Symposium (USENIX Security), 2025.
 
