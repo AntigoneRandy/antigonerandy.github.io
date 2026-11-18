@@ -29,6 +29,7 @@ My research centers on **responsible (multimodal) generative models**, i.e., the
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2026.11:</em> 🏆 I received the <b>Top Reviewer Award</b> (81/861 PC members) from <a href="https://www.sigsac.org/ccs/CCS2026/">ACM CCS 2026</a>!</li>
   <li><em>2026.10:</em> 📄 Our paper <a href="https://arxiv.org/abs/2610.13333">LETHE</a> on defending against unauthorized image-to-video generation, together with the <a href="https://arxiv.org/abs/2610.13733">technical report</a> of our LifeGenIP champion first-place solution KVeil, is now available on arXiv!</li>
   <li><em>2026.08:</em> 🏆 Our team KVeil won the <b>🏅 Champion (1st Place)</b> in <b>both</b> the preliminary and final phases of the <a href="https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit">LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization</a> @ ECCV 2026! Check out our <a href="https://arxiv.org/abs/2610.13733">technical report</a> and <a href="https://arxiv.org/abs/2610.13333">paper</a>!</li>
   <li><em>2026.05:</em> 📝 I am invited to serve as a reviewer for IEEE S&P Magazine, ECCV 2026, and ICMR 2026, and as the Program Committee for ACSAC 2026.</li>
@@ -82,6 +83,10 @@ $^\dagger$: equal contribution
 **Boheng Li**, Yueming Xing, Yiming Li, Jie Zhang, Han Qiu, Tianwei Zhang   
 *The ECCV Workshop on LifeGenIP (Competition Technical Report, Non-archival Track), 2026*   
 *Winning Solution of the ECCV 2026 LifeGenIP Challenge on Unlearnable Videos against Diffusion-based Customization*
+
+- [RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness](https://icml.cc/virtual/2026/poster/65032)   
+Yanhao Wei$^\dagger$, Xiaokang Zhao$^\dagger$, **Boheng Li$^\dagger$**, Yang Zhang, Run Wang   
+*The International Conference on Machine Learning (ICML), 2026*
 
 - [DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling](https://arxiv.org/abs/2507.16329)   
 **Boheng Li**, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, Han Qiu, Zhan Qin, Tianwei Zhang   
@@ -172,6 +177,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 - *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University* -->
 
 # 🏆 Selected Awards
+- **Top Reviewer Award**, [ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026/). *2026.11*
 - **🏅 Champion (1st Place)** of both the Preliminary (Phase 1, white-box) and Final (Phase 2, overall) phases, [LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization](https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit) @ ECCV 2026, team leader ([Tech Report](https://arxiv.org/abs/2610.13733)). *2026.08*
 - **Top 200 Reviewers Award**, [ICLR 2026](https://iclr.cc/Conferences/2026/ProgramCommittee). *2026.04*
 - **Top Reviewer Award**, [NeurIPS 2025](https://neurips.cc/Conferences/2025/ProgramCommittee). *2025.10*
