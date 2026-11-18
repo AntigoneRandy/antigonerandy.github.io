@@ -82,7 +82,7 @@ $^\dagger$: equal contribution
 - [KVeil: First-Place Solution to ECCV 2026 LifeGenIP Challenge on Unlearnable Videos](https://arxiv.org/abs/2610.13733)   
 **Boheng Li**, Yueming Xing, Yiming Li, Jie Zhang, Han Qiu, Tianwei Zhang   
 *The ECCV Workshop on LifeGenIP (Competition Technical Report, Non-archival Track), 2026*   
-*Winning Solution of the [ECCV 2026 LifeGenIP Challenge on Unlearnable Videos against Diffusion-based Customization](https://lifegenip.cc/competition)*
+*Winning Solution of the ECCV 2026 LifeGenIP Challenge on Unlearnable Videos against Diffusion-based Customization*
 
 - [RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness](https://icml.cc/virtual/2026/poster/65032)   
 Yanhao Wei$^\dagger$, Xiaokang Zhao$^\dagger$, **Boheng Li$^\dagger$**, Yang Zhang, Run Wang   
